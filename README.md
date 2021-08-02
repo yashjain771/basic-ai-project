@@ -1,1 +1,1 @@
-# minor-project-ai
+# basic-ai-project
